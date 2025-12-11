@@ -73,6 +73,11 @@ src/
 -   **fahrenheit** (°F) - Фаренгейт
 -   **kelvin** (K) - Кельвин
 
-## 📄 Лицензия
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/79480442-196e-4c54-a88a-837f849a93ad" />
+-> 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c7f6af12-9fad-4cab-9e59-6378b95b437e" />
 
-MIT
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ba27fcc6-23d3-41db-aacf-3967a4510e7c" />
+->
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/66b45050-960c-427f-917f-3d534b61bed8" />
+
