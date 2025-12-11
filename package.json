@@ -1,0 +1,40 @@
+{
+  "name": "kr-5",
+  "version": "1.0.0",
+  "description": "API on express.js",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/app.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/grachevelloper/study_technology-5-control-work.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/grachevelloper/study_technology-5-control-work/issues"
+  },
+  "homepage": "https://github.com/grachevelloper/study_technology-5-control-work#readme",
+  "devDependencies": {
+    "@types/cors": "^2.8.19",
+    "@types/express": "^5.0.6",
+    "@types/helmet": "^0.0.48",
+    "@types/node": "^25.0.0",
+    "@types/swagger-jsdoc": "^6.0.4",
+    "@types/swagger-ui-express": "^4.1.8",
+    "express": "^5.2.1",
+    "nodemon": "^3.1.11",
+    "typescript": "^5.9.3",
+    "zod": "^4.1.13"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.3",
+    "helmet": "^8.1.0",
+    "swagger-jsdoc": "^6.2.8",
+    "swagger-ui-express": "^5.0.1"
+  }
+}
